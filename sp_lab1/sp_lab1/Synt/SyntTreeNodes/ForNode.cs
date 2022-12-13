@@ -11,7 +11,7 @@ namespace sp_lab1.Synt.SyntTreeNodes
     {
         public StatementNode Id;
         public ExpressionNode condition;
-        public StatementNode expression;
+        public SequenceNode expression;
         public StatementNode body;
 
         public ForNode () { }
@@ -30,7 +30,7 @@ namespace sp_lab1.Synt.SyntTreeNodes
 
         public override string ToAlgLang()
         {
-            return $"нц для {Id.ToAlgLang()} пока ({condition.ToAlgLang()}) {expression.ToAlgLang()} \n\t{body.ToAlgLang()}\nкц";
+            return $"для {Id.ToAlgLang()} пока ({condition.ToAlgLang()}) {expression.Next.ToAlgLang()}\n{body.ToAlgLang()}";
         }
     }
 }

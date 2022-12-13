@@ -1,12 +1,8 @@
 ﻿{
 	int i = 5;
-	float f = 0.25;
-	
-	{
-		uint ui;
-	}
-
+	float f = 2.34;
+	i++;
 	for(int j = 0; j < 5; j++;){
-		f = f + 0.25;
+		i = i + 5;
 	}
 }

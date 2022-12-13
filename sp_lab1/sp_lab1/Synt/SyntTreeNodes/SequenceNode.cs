@@ -42,7 +42,8 @@ namespace sp_lab1.Synt.SyntTreeNodes
             //    TreePrint(Arith.expression_1, tub + "│" + "\t");
             //    TreePrint(Arith.expression_2, tub + "│" + "\t");
             //}
-            return $"{Statement.ToAlgLang}\n{Next.ToAlgLang()}";
+            if(Next != null) return $"{Statement.ToAlgLang()}\n{Next.ToAlgLang()}";
+            else return $"{Statement.ToAlgLang()}";
         }
 
         public override string ToString()

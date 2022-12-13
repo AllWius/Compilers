@@ -21,7 +21,7 @@ namespace lab2.Models.SyntaxNodes
 
         public override string ToAlgLang()
         {
-            return $"{Name} := {Expression}";
+            return $"{Name} := {Expression.ToAlgLang()}";
         }
         public override string ToString()
         {

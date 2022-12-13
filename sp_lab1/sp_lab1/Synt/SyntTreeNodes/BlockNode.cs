@@ -19,7 +19,7 @@ namespace sp_lab1.Synt.SyntTreeNodes
 
         public override string ToAlgLang()
         {
-            return "нач\n\t" + node.ToAlgLang() + "\nкон";
+            return "нач\n" + node.ToAlgLang() + "\nкон";
         }
     }
 }
