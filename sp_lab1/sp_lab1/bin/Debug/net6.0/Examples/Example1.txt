@@ -1,0 +1,7 @@
+﻿int counter = 5;
+string type;
+
+for (int iterator = 0; iterator <= 10; iterator++) {
+    
+    counter = counter + iterator;
+}

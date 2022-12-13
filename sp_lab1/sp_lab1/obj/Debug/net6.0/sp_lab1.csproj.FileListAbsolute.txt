@@ -1,0 +1,15 @@
+D:\Documents\repos\sp_lab1\sp_lab1\bin\Debug\net6.0\sp_lab1.exe
+D:\Documents\repos\sp_lab1\sp_lab1\bin\Debug\net6.0\sp_lab1.deps.json
+D:\Documents\repos\sp_lab1\sp_lab1\bin\Debug\net6.0\sp_lab1.runtimeconfig.json
+D:\Documents\repos\sp_lab1\sp_lab1\bin\Debug\net6.0\sp_lab1.dll
+D:\Documents\repos\sp_lab1\sp_lab1\bin\Debug\net6.0\sp_lab1.pdb
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\sp_lab1.csproj.AssemblyReference.cache
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\sp_lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\sp_lab1.AssemblyInfoInputs.cache
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\sp_lab1.AssemblyInfo.cs
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\sp_lab1.csproj.CoreCompileInputs.cache
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\sp_lab1.dll
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\refint\sp_lab1.dll
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\sp_lab1.pdb
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\sp_lab1.genruntimeconfig.cache
+D:\Documents\repos\sp_lab1\sp_lab1\obj\Debug\net6.0\ref\sp_lab1.dll
